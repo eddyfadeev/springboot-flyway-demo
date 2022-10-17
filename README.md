@@ -1,2 +1,2 @@
-# template-repository
-Template repository for all the projects.
+# Spring Boot and Flyway
+Repository to test out Spring Boot with Flyway 
